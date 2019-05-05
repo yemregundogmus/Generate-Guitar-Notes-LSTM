@@ -18,6 +18,16 @@ pip install keyboard
 
 Ardından **LSTM - Develop Model -1.ipynb** Dosyasını Jupyter Notebook ile açıp modeli kurabilirsin. Veya Hazır Modeli Kullanmak İstiyorsan, **LSTM - Selenium Testing -2.ipynb** Dosyasını Açarak Direkt Hazır Modelden Şarkı Ürettirebilir ve Bunu Çaldırabilirsin.
 
+Model Dosyaları :
+- stacked-weights-improvement-90-0.2360.hdf5
+- stacked-weights-improvement-80-0.2467.hdf5
+
+Verisetleri :
+- nirvananota.txt
+
+Selenium için chromedriver.exe :
+- chromedriver.exe
+
 Proje Sahipleri:
 - Yunus Emre Gündoğmuş
 
